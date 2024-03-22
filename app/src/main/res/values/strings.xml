@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">crudOpreations</string>
+    <string-array name="subject">
+        <item>SELECT SUBJECT</item>
+        <item>JAVA</item>
+        <item>PYTHON</item>
+        <item>Android</item>
+    </string-array>
+</resources>
